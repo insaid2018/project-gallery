@@ -15,7 +15,6 @@
  - scikit-learn
  - tensorflow-keras
 
- ## Title
  #### **Street View House Numbers**
 ![enter image description here](https://beeps82.github.io/SVHN_CNN/figs/13.png)
 
@@ -31,9 +30,8 @@ The Street View House Numbers (SVHN) dataset is one of the most popular benchmar
 ## Data
 This dataset contains two .zip files that contain over 90k labelled real-world images of house numbers taken from Google Street View. The sequence of numbers in the images are of bounded length.
 
--   There are 10 classes, 1 for each digit. Digit '1' has label 1, '9' has label 9 and '0' has label 10. 
-![enter image description here](https://i.ibb.co/s37m5Vw/red.png)
--  Dataset -  [https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition](https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition)
+-   There are 10 classes, 1 for each digit. Digit '1' has label 1, '9' has label 9 and '0' has label 10.
+-  Dataset -  [link](https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition)
 ## Acknowledgements
 The SVHN dataset originates from [http://ufldl.stanford.edu/housenumbers/](http://ufldl.stanford.edu/housenumbers/). The banner photo was by Annie Spratt on Unsplash.
 <!--stackedit_data:
