@@ -3,12 +3,11 @@
 
 ## **Table of Contents**
 
-**1.**  [**Introduction**](#Section1)
-**2.**  [**Problem Statement**](#Section2)
-**3.**  [**Installed & Imported Libraries**](#Section3)
-**4.**  [**Data Pre-processing Steps**](#Section4)
-**5.**  [**Insights from the EDA**](#Section5)
-
+**1.**  [**Introduction**](#Section1)<br>
+**2.**  [**Problem Statement**](#Section2)<br>
+**3.**  [**Installed & Imported Libraries**](#Section3)<br>
+**4.**  [**Data Pre-processing Steps**](#Section4)<br>
+**5.**  [**Insights from the EDA**](#Section5)<br>
 <a name=Section1></a>
 
 ## **1. Introduction**
