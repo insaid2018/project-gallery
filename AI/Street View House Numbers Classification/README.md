@@ -25,7 +25,7 @@ The Street View House Numbers (SVHN) dataset is one of the most popular benchmar
 **Object recognition** and **image processing** has become one of the hottest topics in machine learning due to its vast and creative potential applications in the real world. The ability to process visual information using machine learning algorithms can be very useful, such as the **Street View House Numbers (SVHN)** dataset is one of the most popular ones.
 
  ## Goal
- The original purpose of this dataset is to solve a harder problem: that of **recognizing digits** and **numbers** in **natural scene** images.
+ The original purpose of this dataset is to solve a harder problem: that of **recognizing digits** and **numbers** in an image of **Street View House Numbers (SVHN)**.
 
 ## Data
 This dataset contains two .zip files that contain over 90k labelled real-world images of house numbers taken from Google Street View. The sequence of numbers in the images are of bounded length.
