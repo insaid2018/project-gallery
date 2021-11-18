@@ -33,7 +33,7 @@ This dataset contains two .zip files that contain over 90k labelled real-world i
 -   There are 10 classes, 1 for each digit. Digit '1' has label 1, '9' has label 9 and '0' has label 10.
 -  Dataset -  [link](https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition)
 ## Acknowledgements
-The SVHN dataset originates from [http://ufldl.stanford.edu/housenumbers/](http://ufldl.stanford.edu/housenumbers/). The banner photo was by Annie Spratt on Unsplash.
+The SVHN dataset originates from [http://ufldl.stanford.edu/housenumbers/](http://ufldl.stanford.edu/housenumbers/). 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM1NjA3MTI5MF19
 -->
