@@ -78,7 +78,7 @@
 
 - After that the **encoder-decoder architecture** was defined keeping **latent_dim =300**.
 <br>
- <center><img src="https://github.com/ghoshpronay18071997/english_to_hindi_with_encoder_decoder/blob/main/Encoder_decoder_architecture.png" height= 400 width=800 ></center>
+ <center><img src="https://github.com/insaid2018/project-gallery/blob/main/AI/English-Hindi%20Translation/Encoder_decoder_architecture.png" height= 400 width=800 ></center>
  <br>
  
  - In the architecture one **embedding encoder layer** was defined followed by an **encoder lstm** layer.
@@ -88,7 +88,7 @@
  - The total **trainable parameters** were found to be **16,193,541**.
  
  <br>
- <center><img src="https://github.com/ghoshpronay18071997/english_to_hindi_with_encoder_decoder/blob/main/Encoder_decoder_loss.png" height= 400 width=800 ></center>
+ <center><img src="https://github.com/insaid2018/project-gallery/blob/main/AI/English-Hindi%20Translation/Encoder_decoder_loss.png" height= 400 width=800 ></center>
  <br>
 
 - After that the model was trained on **30 epochs** and a batch size of **128** and on the final validation loss we recived a loss of **2.74**
@@ -100,7 +100,7 @@
  
  <br>
   
- <center><img src="https://github.com/ghoshpronay18071997/english_to_hindi_with_encoder_decoder/blob/main/Encoder_decoder_output_new.jpg" height= 154 width=568></center>
+ <center><img src="https://github.com/insaid2018/project-gallery/blob/main/AI/English-Hindi%20Translation/Encoder_decoder_output.jpg" height= 154 width=568></center>
  
  <br>
 
