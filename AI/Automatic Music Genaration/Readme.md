@@ -1,6 +1,5 @@
 
-
-<center><h2><b>Making of a simple interactive chatbot</b></h2></center>
+<center><h2><b>Automatic Music Genaration</b></h2></center>
 
 ## **Table of Contents**
 
