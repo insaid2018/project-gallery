@@ -113,7 +113,7 @@ The following libraries have been imported in the notebook:
 - **Java**  is  **most**  used language in IT sector in EU
 
 
-- We found out that **seniority level** is b/w **7 to 13** years approx*.
+- We found out that **seniority level** is b/w **7 to 13** years approx.
 
 
 - The  **Product companies**  in IT sector is having the  **highest in distribution**.
