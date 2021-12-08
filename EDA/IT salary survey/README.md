@@ -57,14 +57,14 @@ The following libraries have been imported in the notebook:
 
 <a  name = Section4></a>
 
-## **4. Data Description **
+## **4. Data Description**
 
 <a  name = Section41></a>
 
 <center>
 
-|Dataset| Records | Features | 
-| :--: | :--: | :--: | :--: |
+|Dataset|Records|Features| 
+|:--: |:--:|:--:|
 | IT salary Analysis | 1253 | 23 |
 
 <br>
