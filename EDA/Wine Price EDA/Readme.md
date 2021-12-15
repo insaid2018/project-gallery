@@ -55,7 +55,7 @@
 ### **2.2 Imported Libraries**
 
 The following libraries have been imported in the notebook:
-<center><img  src="https://miro.medium.com/fit/c/140/140/1*A0kFXgrIvykXmR4XH0g_PQ.gif"  width=80%></center>
+<center><img  src="![image](https://user-images.githubusercontent.com/92046003/146194356-8d2d5b28-4ab3-4cb6-964e-d5dd39d3cbf8.png)"  width=80%></center>
 
 - **Pandas**: Importing for panel data analysis
 - **Pandas Profiling**: To perform data profiling
