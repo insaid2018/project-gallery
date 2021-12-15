@@ -3,9 +3,9 @@
 
 ## **Table of Contents**
 
-**1.**  [**Problem Statement**](#Section1)
-**2.**  [**Installed & Imported Libraries**](#Section2)
-**3.**  [**Data Pre-processing Steps**](#Section3)
+**1.**  [**Problem Statement**](#Section1)<br>
+**2.**  [**Installed & Imported Libraries**](#Section2)<br>
+**3.**  [**Data Pre-processing Steps**](#Section3)<br>
 **4.**  [**Insights from the EDA**](#Section4)
 
 
