@@ -180,14 +180,14 @@ The following libraries and tools were used for the project:
 
 
 <a name=Section6></a>
-## **6. Modelling and Hyoeroparameter Tuning and Prediciton**
+## **6. Modelling and Hyperparameter Tuning and Prediciton**
 <center><img  src="https://cdn.dribbble.com/users/1571442/screenshots/6356637/dribbbble_machinelearning_4x.png"></center>
 
 - We performed modelling with most of the commonlu used **Machine Learning** models.
 
 -  As a **Baseline** it was found that **CatBoost Regressor** was giving us the highest **r2 score** and least **overfitting**.
 
-- We further tuned the model with **RandomSearchCV ** and found that we had a very low improvement of **0.005** in the **validation data**.
+- We further tuned the model with **RandomSearchCV** and found that we had a very low improvement of **0.005** in the **validation data**.
 
 - However, still this was giiving the lowest overfitting on validation data. hence, we selected this model as the **best fit**.
 
@@ -227,6 +227,4 @@ and get **response** through the app,py file.
 
 - You'll have the **results** in front of you.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjQ0ODQ5MV19
--->
+
