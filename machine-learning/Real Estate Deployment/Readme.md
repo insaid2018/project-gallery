@@ -39,9 +39,7 @@
 
   
 
-- A home is often the largest and most expensive purchase a person makes in his or her lifetime. Ensuring real-estate owners have a
-
- trusted way to monitor the asset is incredibly important.
+- A home is often the largest and most expensive purchase a person makes in his or her lifetime. Ensuring real-estate owners have a trusted way to monitor the asset is incredibly important.
 
   
 
