@@ -301,8 +301,5 @@ The following libraries have been imported in the notebook:
 <a name=Section5></a>
 ## **5. References**
 
-- **Dataset Link :** 
-You can get data by clicking  [here](https://www.kaggle.com/spicemix/french-second-hand-car/code).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzI1ODU5Nl19
--->
+- **Dataset Link:**  
+You can get dataset by clicking [here](https://www.kaggle.com/spicemix/french-second-hand-car/code).
