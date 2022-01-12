@@ -54,7 +54,7 @@ The following libraries have been imported in the notebook:
 
 <a  name = Section4></a>
 
-## **4. Data Description **
+## **4. Data Description**
 
 <a  name = Section41></a>
 
