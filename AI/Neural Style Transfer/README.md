@@ -3,10 +3,10 @@
 
 ## **Table of Contents**
 
-**1.**  [**Introduction**](#Section1)
-**2.**  [**Imported Libraries**](#Section2)
-**3.**  [**Output from Fast Style Transfer**](#Section3)
-**4.**  [**Output from Manual Optimization**](#Section4)
+**1.**  [**Introduction**](#Section1)<br>
+**2.**  [**Imported Libraries**](#Section2)<br>
+**3.**  [**Output from Fast Style Transfer**](#Section3)<br>
+**4.**  [**Output from Manual Optimization**](#Section4)<br>
 **5.**  [**Applications**](#Section5)
 
 <a id=Section1></a>
